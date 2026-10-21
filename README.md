@@ -33,6 +33,13 @@
 - SciPy
 - Matplotlib
 
+
+ ## ▶️ 运行代码
+
+- 1.安装python
+- 2.安装项目依赖：pip intstall -r requirements.txt
+- 3.运行程序：python examples/linear_programming.py
+ 
  ## 📁 目录结构
 
 ```text
